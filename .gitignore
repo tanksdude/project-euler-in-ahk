@@ -1,0 +1,11 @@
+# from AHK2EXE on GitHub
+# (This file isn't actually needed...)
+*.exe
+*.bin
+*.bak
+*.db
+*.zip
+*.cmd
+*.chm
+*.session
+/__debug.ahk
